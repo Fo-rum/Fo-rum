@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<br>
+
 ## About Me
 
 - 🔭 I’m currently working on **Full-Stack Development** using technologies like **React.js, Node.js**, and **AWS**.
@@ -41,5 +43,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fo-rum&show_icons=true&theme=dark&line_height=27" />
 </div>
 
----
 
