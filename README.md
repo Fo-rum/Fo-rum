@@ -11,9 +11,6 @@ I'm passionate about building scalable solutions from front-end to back-end and 
   <img align="left" alt="Foram's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-
-## About Me
-
 - 🔭 I’m currently working on **Full-Stack Development** using technologies like **React.js, Node.js**, and **AWS**
 - 🌱 I’m currently learning **Distributed Systems** and **Cloud Computing**
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Innovative Tech Solutions**
