@@ -1,4 +1,6 @@
-# Hi there, I'm [Foram Bhanushali] 👋
+# Hi there, I'm Foram Bhanushali 👋
+
+I'm passionate about building scalable solutions from front-end to back-end and exploring the world of distributed systems!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fo-rum&label=Views&color=blue&style=plastic)
 
@@ -33,10 +35,10 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fo-rum&theme=dark&hide_langs_below=1)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fo-rum&show_icons=true&theme=dark&line_height=27)
-
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fo-rum&theme=dark&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fo-rum&show_icons=true&theme=dark&line_height=27" />
+</div>
 
 ---
 
