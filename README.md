@@ -1,26 +1,28 @@
 # Hi there, I'm Foram Bhanushali 👋
 
-I'm passionate about building scalable solutions from front-end to back-end and exploring the world of distributed systems!
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Fo-rum&label=Views&color=blue&style=plastic)
 
-<a href="https://www.linkedin.com/in/foram-bhanushali21/">
-  <img align="left" alt="Foram's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Fo-rum">
-  <img align="left" alt="Foram's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<!-- LinkedIn and GitHub Icons with proper spacing -->
+<div>
+  <a href="https://www.linkedin.com/in/foram-bhanushali21/">
+    <img align="left" alt="Foram's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/Fo-rum">
+    <img align="left" alt="Foram's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **Full-Stack Development** using technologies like **React.js, Node.js**, and **AWS**
-- 🌱 I’m currently learning **Distributed Systems** and **Cloud Computing**
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Innovative Tech Solutions**
-- 💬 Ask me about **Python**, **JavaScript**, **React.js**, **AWS**, **Microservices**, and **Distributed Systems**
+## About Me
+
+- 🔭 I’m currently working on **Full-Stack Development** using technologies like **React.js, Node.js**, and **AWS**.
+- 🌱 I’m currently learning **Distributed Systems** and **Cloud Computing**.
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Innovative Tech Solutions**.
+- 💬 Ask me about **Python**, **JavaScript**, **React.js**, **AWS**, **Microservices**, and **Distributed Systems**.
 - 📫 How to reach me:
   - LinkedIn: [@Foram Bhanushali](https://www.linkedin.com/in/foram-bhanushali21/)
   - Mail: [fbhanush@uci.edu](mailto:fbhanush@uci.edu)
   - Website: [@Fo-rum](https://github.com/Fo-rum)
 - 😄 Pronouns: **She/Her**
-
 
 ## Languages and Tools
 
@@ -31,7 +33,6 @@ I'm passionate about building scalable solutions from front-end to back-end and 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
 
 ## GitHub Stats
 
