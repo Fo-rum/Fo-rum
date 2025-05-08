@@ -23,7 +23,7 @@
 - 📫 How to reach me:
   - LinkedIn: [@Foram Bhanushali](https://www.linkedin.com/in/foram-bhanushali21/)
   - Mail: [fbhanush@uci.edu](mailto:fbhanush@uci.edu)
-  - Website: [@Fo-rum](https://github.com/Fo-rum)
+  - Portfolio: [@Fo-rum](https://fo-rum.github.io/)
 - 😄 Pronouns: **She/Her**
 
 ## Languages and Tools
